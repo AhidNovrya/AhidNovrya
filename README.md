@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Halo, saya Ahid Novryan
 
-<!--
-**AhidNovrya/AhidNovrya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Mahasiswa **Teknologi Informasi** di Telkom University 🇮🇩  
+Tertarik pada bidang **pemrograman, IoT, dan cyber security**.  
 
-Here are some ideas to get you started:
+### ⚡ Teknologi yang saya kuasai:
+- C / C++
+- Golang
+- Python
+- HTML, CSS, dan sedikit JavaScript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 Statistik GitHub
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AhidNovrya&show_icons=true&theme=tokyonight)
+
+### 🌱 Saat ini saya sedang belajar
+- Algoritma Pemrograman
+- Struktur Data
+- IoT
+- Cyber Security
